@@ -1,4 +1,4 @@
-package com.company;
+package kg.geektech;
 
 public class Hero {
     private int health;

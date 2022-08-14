@@ -1,4 +1,4 @@
-package com.company;
+package kg.geektech;
 
 public class Boss {
 
